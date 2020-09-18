@@ -1,1 +1,3 @@
-# devops_ac02
+# devops_ac02  
+Nome: Lucas Mendes da Silva  
+RA: 1902676
